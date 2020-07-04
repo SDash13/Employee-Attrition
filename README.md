@@ -1,6 +1,6 @@
 # Employee-Attrition
 Predicting Employee Attrition 
-The task is to predict the Attrition rate of employees of an organisation.
+A HackerEarth task in which we need to predict the Attrition rate of employees of an organisation.
 The following dataset contains 7000 rows and 24 columns, Attrition_rate being the target column.
 The dataset description is as follows:
 
