@@ -41,5 +41,5 @@ The dataset description is as follows:
 
 18.Attrition_rate(TARGET VARIABLE) -	Attrition rate of each employee
 
-###The evaluation metric used is root_mean_squared_error
-score = 100*max(0,1-root_mean_squared_error(actual,predicted)
+### The evaluation metric used is root_mean_squared_error
+### score = 100*max(0,1-root_mean_squared_error(actual,predicted)
